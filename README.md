@@ -28,7 +28,7 @@ Para rodar aplicação faça o seguinte:
 git clone https://github.com/Dev-JA/FrameworkChallenge
 
 # Acesse a pasta do projeto no seu terminal/cmd
-$ cd commerce
+$ cd ecommerce
 
 # Instale as dependências
 $ npm install
